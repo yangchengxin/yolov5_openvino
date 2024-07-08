@@ -8,6 +8,8 @@ const static bool run_detect  = false;
 const static int slice_cols = 1;
 const static int slice_rows = 1;
 
+
+
 int main()
 {
 	if(run_detect)
